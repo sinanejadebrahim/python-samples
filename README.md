@@ -7,4 +7,5 @@ sample python apps<br>
 3. ### hangmane-game <br>
     self explanatory <br>
 4. ### todo <br>
-    a really simple cli todo app 
+    a really simple cli todo app <br>
+    set an alis for easier use: alias todo='python3 "todo.py"'
