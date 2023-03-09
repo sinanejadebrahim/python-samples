@@ -9,3 +9,7 @@ sample python apps<br>
 4. ### todo <br>
     a really simple cli todo app <br>
     set an alis for easier use: alias todo='python3 "todo.py"'
+
+5. ### pwned checker <br>
+    checks your password to see if it was pwned, and also gives you multiple hashed versions of it
+    
